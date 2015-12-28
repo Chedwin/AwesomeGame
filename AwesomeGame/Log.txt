@@ -1,0 +1,384 @@
+Fri Nov  6 16:18:21 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp34
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Sat Nov  7 17:53:09 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp35
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Sat Nov  7 18:39:23 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp34
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Sun Nov  8 00:23:01 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp34
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Sun Nov  8 00:25:15 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp34
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Sun Nov  8 14:08:26 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp34
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Sun Nov  8 14:11:08 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp34
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resource/Menu.mp3'
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resource/Menu.mp3'
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resource/Menu.mp3'
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resource/Menu.mp3'
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resource/Menu.mp3'
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:11:52 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp52
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Tue Nov 10 13:23:13 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Thu Nov 12 12:20:23 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp26
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:14:07 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:20:23 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp37
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:21:43 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp24
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:14:07 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:21:43 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp35
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:23:04 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp24
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:14:07 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:23:04 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp35
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:28:58 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp25
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:28:07 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:28:58 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp36
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Thu Nov 12 12:29:21 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp24
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:31:32 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:29:21 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp35
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Thu Nov 12 12:29:21 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp24
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:31:47 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:29:21 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp35
+ERROR: Music::Play()
+Notes: Audio device hasn't been opened
+
+Thu Nov 12 12:34:49 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp24
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:32:06 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp51
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:34:49 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp35
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:40:11 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Failed loading smpeg2.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:42:49 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp53
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:40:11 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Failed loading libvorbisfile-3.dll: The specified module could not be found.
+
+
+Thu Nov 12 12:54:18 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp53
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 15:18:28 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp38
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/Meu.wav'
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/Meu.wav'
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/Meu.wav'
+
+Thu Nov 12 15:20:12 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp43
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp34
+ERROR: Music::Play()
+Notes: music parameter was NULL
+
+Thu Nov 12 15:22:24 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp40
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/Mnu.wav'
+
+Thu Nov 12 15:22:24 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene0.cpp45
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 15:28:58 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene1.cpp82
+ERROR: Scene1::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/ity.wav'
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/ity.wav'
+
+Thu Nov 12 15:29:23 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene1.cpp87
+ERROR: Scene1::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 15:29:42 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene1.cpp82
+ERROR: Scene1::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Thu Nov 12 12:45:35 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/ity.wav'
+
+Thu Nov 12 15:29:42 2015y:\homework\sem 3\c++ game203\awesomegame\awesomegame\scene1.cpp87
+ERROR: Scene1::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Fri Nov 13 01:42:53 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp47
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Thu Nov 12 12:45:35 2015c:\users\edwin\google drive\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/Menu.wav'
+
+Fri Nov 13 01:42:53 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp52
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Fri Nov 13 01:42:53 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp47
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Thu Nov 12 12:45:35 2015c:\users\edwin\google drive\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/Menu.wav'
+
+Fri Nov 13 01:42:53 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene0.cpp52
+ERROR: Scene0::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Thu Nov 12 12:45:35 2015c:\users\edwin\google drive\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/City.wav'
+
+Thu Nov 12 12:45:35 2015c:\users\edwin\google drive\awesomegame\awesomegame\music.cpp23
+ERROR: Music::Load()
+Notes: Couldn't open 'resources/City.wav'
+
+Fri Nov 13 00:18:36 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene1.cpp51
+ERROR: Scene1::OnCreate()
+Notes: ERROR: Music could not be loaded!
+
+Fri Nov 13 00:18:36 2015c:\users\edwin\google drive\awesomegame\awesomegame\scene1.cpp46
+ERROR: Scene1::OnCreate()
+Notes: ERROR: Cannot load background image!
+
+Tue Nov 17 15:05:45 2015\psf\google drive\awesomegame\awesomegame\texture.cpp30
+ERROR: Texture::Load()
+Notes: Failed to create texture from resources/limbo_boy.bmp. SDL Error: Invalid renderer
+
+Tue Nov 17 15:05:45 2015\psf\google drive\awesomegame\awesomegame\texture.cpp30
+ERROR: Texture::Load()
+Notes: Failed to create texture from resources/limbo_boy.bmp. SDL Error: Invalid renderer
+
+Thu Nov 19 13:11:48 2015\psf\google drive\awesomegame\awesomegame\player.cpp26
+ERROR: Player::OnCreate()
+Notes: ERROR: Cannot load boy image!
+
+Thu Nov 19 13:13:21 2015\psf\google drive\awesomegame\awesomegame\player.cpp26
+ERROR: Player::OnCreate()
+Notes: ERROR: Cannot load boy image!
+
+Thu Nov 19 13:13:21 2015\psf\google drive\awesomegame\awesomegame\player.cpp26
+ERROR: Player::OnCreate()
+Notes: ERROR: Cannot load boy image!
+
+Tue Nov 17 15:05:45 2015\psf\google drive\awesomegame\awesomegame\texture.cpp21
+ERROR: Texture::Load()
+Notes: Failed to load resources/guy_walking_spritesheet.png. SDL Error: Couldn't open resources/guy_walking_spritesheet.png
+
+Thu Nov 26 12:05:18 2015\psf\google drive\awesomegame\awesomegame\player.cpp19
+ERROR: Player::OnCreate()
+Notes: ERROR: Cannot load boy image!
+
+Tue Nov 17 15:05:45 2015\psf\google drive\awesomegame\awesomegame\texture.cpp21
+ERROR: Texture::Load()
+Notes: Failed to load resources/guy_walking_spritesheet.bmp. SDL Error: Couldn't open resources/guy_walking_spritesheet.bmp
+
+Thu Nov 26 12:05:18 2015\psf\google drive\awesomegame\awesomegame\player.cpp19
+ERROR: Player::OnCreate()
+Notes: ERROR: Cannot load boy image!
+
+Tue Nov 17 15:05:45 2015c:\users\edwin\google drive\awesomegame\awesomegame\texture.cpp21
+ERROR: Texture::Load()
+Notes: Failed to load resources/limbo_background01.bmp. SDL Error: Couldn't open resources/limbo_background01.bmp
+
+Tue Nov 17 15:05:45 2015c:\users\edwin\google drive\awesomegame\awesomegame\texture.cpp21
+ERROR: Texture::Load()
+Notes: Failed to load resources/limbo_boy.bmp. SDL Error: Couldn't open resources/limbo_boy.bmp
+
+Fri Dec  4 14:39:34 2015c:\users\edwin\google drive\awesomegame\awesomegame\player.cpp19
+ERROR: Player::OnCreate()
+Notes: ERROR: Cannot load boy image!
+
+Tue Dec  8 16:35:21 2015v:\awesomegame\awesomegame\scene3.cpp36
+ERROR: Scene3::OnCreate()
+Notes: ERROR: Background image could not be loaded!
+
+Sun Dec 13 15:20:57 2015c:\users\edwin\google drive\awesomegame\awesomegame\gamescenemanager.cpp111
+ERROR: GameSceneManager::Render()
+Notes: No scene selected as current scene
+
